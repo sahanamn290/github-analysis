@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Analysis",
+  "description": "A high-end GitHub profile analyzer that uses Gemini AI to generate developer personas and professional summaries from public GitHub data.",
+  "requestFramePermissions": []
+}
